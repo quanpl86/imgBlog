@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="100%" height="100%" fill="#fffaf5"/>
+  
+    <text font-family="Arial, sans-serif" font-weight="700"><tspan x="80" y="70" font-size="32" fill="#111111">Giúp giáo viên phân biệt ngay ghi chép có thể</tspan><tspan x="80" y="108" font-size="32" fill="#111111">dùng để đối chiếu rubric với các nhận xét mơ hồ</tspan><tspan x="80" y="146" font-size="32" fill="#111111">không đủ bằng chứng.</tspan></text>
+    <rect x="70" y="150" width="700" height="680" rx="16" fill="#ffffff" stroke="#f97316" stroke-width="3"/>
+    <rect x="830" y="150" width="700" height="680" rx="16" fill="#ffffff" stroke="#f97316" stroke-width="3"/>
+    <text font-family="Arial, sans-serif"><tspan x="100" y="240" font-size="22" fill="#1a1a1a">• Nên ghi: Bằng chứng quan sát</tspan><tspan x="100" y="268" font-size="22" fill="#1a1a1a">được</tspan></text>
+    <text font-family="Arial, sans-serif"><tspan x="860" y="240" font-size="22" fill="#1a1a1a">• Cần tránh: Nhận xét chung</tspan><tspan x="860" y="268" font-size="22" fill="#1a1a1a">chung</tspan></text>
+  
+</svg>
