@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="100%" height="100%" fill="#fffaf5"/>
+  
+    <text font-family="Arial, sans-serif" font-weight="700"><tspan x="80" y="70" font-size="32" fill="#111111">Làm rõ AI tăng tốc công việc nhưng không thay</tspan><tspan x="80" y="108" font-size="32" fill="#111111">thế kiểm thử, bảo mật, khả năng tiếp cận và</tspan><tspan x="80" y="146" font-size="32" fill="#111111">quyết định sản phẩm.</tspan></text>
+    <rect x="70" y="150" width="700" height="680" rx="16" fill="#ffffff" stroke="#f97316" stroke-width="3"/>
+    <rect x="830" y="150" width="700" height="680" rx="16" fill="#ffffff" stroke="#f97316" stroke-width="3"/>
+    <text font-family="Arial, sans-serif"><tspan x="100" y="240" font-size="22" fill="#1a1a1a">• AI hỗ trợ tốt</tspan></text><text font-family="Arial, sans-serif"><tspan x="100" y="330" font-size="22" fill="#1a1a1a">• Con người cần kiểm chứng</tspan></text><text font-family="Arial, sans-serif"><tspan x="100" y="420" font-size="22" fill="#1a1a1a">• Khám phá ý tưởng &amp; bố cục</tspan></text><text font-family="Arial, sans-serif"><tspan x="100" y="510" font-size="22" fill="#1a1a1a">• Sinh mã khung &amp; thành phần</tspan></text><text font-family="Arial, sans-serif"><tspan x="100" y="600" font-size="22" fill="#1a1a1a">• Viết test và gợi ý sửa lỗi</tspan></text>
+    <text font-family="Arial, sans-serif"><tspan x="860" y="240" font-size="22" fill="#1a1a1a">• Kiểm tra UX với người dùng</tspan><tspan x="860" y="268" font-size="22" fill="#1a1a1a">thật</tspan></text><text font-family="Arial, sans-serif"><tspan x="860" y="330" font-size="22" fill="#1a1a1a">• Bảo mật, dữ liệu &amp; quyền riêng</tspan><tspan x="860" y="358" font-size="22" fill="#1a1a1a">tư</tspan></text><text font-family="Arial, sans-serif"><tspan x="860" y="420" font-size="22" fill="#1a1a1a">• Khả năng tiếp cận</tspan></text><text font-family="Arial, sans-serif"><tspan x="860" y="510" font-size="22" fill="#1a1a1a">• Hiệu năng trên thiết bị thật</tspan></text><text font-family="Arial, sans-serif"><tspan x="860" y="600" font-size="22" fill="#1a1a1a">• Quyết định kiến trúc &amp; triển</tspan><tspan x="860" y="628" font-size="22" fill="#1a1a1a">khai</tspan></text>
+  
+</svg>
