@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="100%" height="100%" fill="#fffaf5"/>
+  
+    <text font-family="Arial, sans-serif" font-weight="700"><tspan x="80" y="70" font-size="32" fill="#111111">Người đọc phân biệt rõ hai cách sử dụng AI trong</tspan><tspan x="80" y="108" font-size="32" fill="#111111">tự học</tspan></text>
+    <rect x="70" y="150" width="700" height="680" rx="16" fill="#ffffff" stroke="#f97316" stroke-width="3"/>
+    <rect x="830" y="150" width="700" height="680" rx="16" fill="#ffffff" stroke="#f97316" stroke-width="3"/>
+    <text font-family="Arial, sans-serif"><tspan x="100" y="240" font-size="22" fill="#1a1a1a">• AI làm hộ</tspan></text><text font-family="Arial, sans-serif"><tspan x="100" y="330" font-size="22" fill="#1a1a1a">• AI hỗ trợ học sâu</tspan></text><text font-family="Arial, sans-serif"><tspan x="100" y="420" font-size="22" fill="#1a1a1a">• Xin đáp án ngay</tspan></text><text font-family="Arial, sans-serif"><tspan x="100" y="510" font-size="22" fill="#1a1a1a">• Tự thử trước</tspan></text><text font-family="Arial, sans-serif"><tspan x="100" y="600" font-size="22" fill="#1a1a1a">• Sao chép câu trả lời</tspan></text>
+    <text font-family="Arial, sans-serif"><tspan x="860" y="240" font-size="22" fill="#1a1a1a">• Yêu cầu phản hồi và gợi ý</tspan></text><text font-family="Arial, sans-serif"><tspan x="860" y="330" font-size="22" fill="#1a1a1a">• Hoàn thành nhanh</tspan></text><text font-family="Arial, sans-serif"><tspan x="860" y="420" font-size="22" fill="#1a1a1a">• Hiểu và tự làm lại</tspan></text><text font-family="Arial, sans-serif"><tspan x="860" y="510" font-size="22" fill="#1a1a1a">• Người học bị động</tspan></text><text font-family="Arial, sans-serif"><tspan x="860" y="600" font-size="22" fill="#1a1a1a">• Người học chủ động</tspan></text>
+  
+</svg>
