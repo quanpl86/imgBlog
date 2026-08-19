@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="100%" height="100%" fill="#fffaf5"/>
+  
+    <text font-family="Arial, sans-serif" font-weight="700"><tspan x="80" y="80" font-size="36" fill="#111111">Giúp người đọc hiểu AI nên được tích hợp vào</tspan><tspan x="80" y="122" font-size="36" fill="#111111">từng bước của quy trình phát triển website nhưng</tspan><tspan x="80" y="164" font-size="36" fill="#111111">luôn có kiểm tra của con người.</tspan></text>
+    
+      <rect x="61" y="320" width="213" height="180" rx="12" fill="#ffffff" stroke="#f97316" stroke-width="3"/>
+      <circle cx="89" cy="348" r="18" fill="#f97316"/>
+      <text x="89" y="354" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff" font-family="Arial, sans-serif">1</text>
+      <text font-family="Arial, sans-serif" font-weight="600"><tspan x="81" y="398" font-size="18" fill="#1a1a1a">1. Xác định yêu</tspan><tspan x="81" y="422" font-size="18" fill="#1a1a1a">cầu</tspan></text>
+      <polygon points="280,365 308,380 280,395" fill="#f97316"/>
+    
+      <rect x="314" y="320" width="213" height="180" rx="12" fill="#ffffff" stroke="#f97316" stroke-width="3"/>
+      <circle cx="342" cy="348" r="18" fill="#f97316"/>
+      <text x="342" y="354" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff" font-family="Arial, sans-serif">2</text>
+      <text font-family="Arial, sans-serif" font-weight="600"><tspan x="334" y="398" font-size="18" fill="#1a1a1a">2. Phác thảo UX/UI</tspan></text>
+      <polygon points="533,365 561,380 533,395" fill="#f97316"/>
+    
+      <rect x="567" y="320" width="213" height="180" rx="12" fill="#ffffff" stroke="#f97316" stroke-width="3"/>
+      <circle cx="595" cy="348" r="18" fill="#f97316"/>
+      <text x="595" y="354" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff" font-family="Arial, sans-serif">3</text>
+      <text font-family="Arial, sans-serif" font-weight="600"><tspan x="587" y="398" font-size="18" fill="#1a1a1a">3. Sinh mã và</tspan><tspan x="587" y="422" font-size="18" fill="#1a1a1a">thành phần</tspan></text>
+      <polygon points="786,365 814,380 786,395" fill="#f97316"/>
+    
+      <rect x="820" y="320" width="213" height="180" rx="12" fill="#ffffff" stroke="#f97316" stroke-width="3"/>
+      <circle cx="848" cy="348" r="18" fill="#f97316"/>
+      <text x="848" y="354" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff" font-family="Arial, sans-serif">4</text>
+      <text font-family="Arial, sans-serif" font-weight="600"><tspan x="840" y="398" font-size="18" fill="#1a1a1a">4. Kiểm thử chức</tspan><tspan x="840" y="422" font-size="18" fill="#1a1a1a">năng</tspan></text>
+      <polygon points="1039,365 1067,380 1039,395" fill="#f97316"/>
+    
+      <rect x="1073" y="320" width="213" height="180" rx="12" fill="#ffffff" stroke="#f97316" stroke-width="3"/>
+      <circle cx="1101" cy="348" r="18" fill="#f97316"/>
+      <text x="1101" y="354" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff" font-family="Arial, sans-serif">5</text>
+      <text font-family="Arial, sans-serif" font-weight="600"><tspan x="1093" y="398" font-size="18" fill="#1a1a1a">5. Kiểm tra hiệu</tspan><tspan x="1093" y="422" font-size="18" fill="#1a1a1a">năng &amp; khả năng</tspan><tspan x="1093" y="446" font-size="18" fill="#1a1a1a">tiếp cận</tspan></text>
+      <polygon points="1292,365 1320,380 1292,395" fill="#f97316"/>
+    
+      <rect x="1326" y="320" width="213" height="180" rx="12" fill="#ffffff" stroke="#f97316" stroke-width="3"/>
+      <circle cx="1354" cy="348" r="18" fill="#f97316"/>
+      <text x="1354" y="354" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff" font-family="Arial, sans-serif">6</text>
+      <text font-family="Arial, sans-serif" font-weight="600"><tspan x="1346" y="398" font-size="18" fill="#1a1a1a">6. Review, triển</tspan><tspan x="1346" y="422" font-size="18" fill="#1a1a1a">khai &amp; giám sát</tspan></text>
+      
+    
+  
+</svg>
