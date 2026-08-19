@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="100%" height="100%" fill="#fffaf5"/>
+  
+    <text font-family="Arial, sans-serif" font-weight="700"><tspan x="80" y="80" font-size="36" fill="#111111">Cho thấy AI hỗ trợ chứ không thay thế tư duy của</tspan><tspan x="80" y="122" font-size="36" fill="#111111">người học</tspan></text>
+    
+      <rect x="180" y="320" width="280" height="180" rx="12" fill="#ffffff" stroke="#f97316" stroke-width="3"/>
+      <circle cx="208" cy="348" r="18" fill="#f97316"/>
+      <text x="208" y="354" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff" font-family="Arial, sans-serif">1</text>
+      <text font-family="Arial, sans-serif" font-weight="600"><tspan x="200" y="398" font-size="18" fill="#1a1a1a">Tự học với AI</tspan></text>
+      <polygon points="466,365 494,380 466,395" fill="#f97316"/>
+    
+      <rect x="500" y="320" width="280" height="180" rx="12" fill="#ffffff" stroke="#f97316" stroke-width="3"/>
+      <circle cx="528" cy="348" r="18" fill="#f97316"/>
+      <text x="528" y="354" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff" font-family="Arial, sans-serif">2</text>
+      <text font-family="Arial, sans-serif" font-weight="600"><tspan x="520" y="398" font-size="18" fill="#1a1a1a">Xác định mục tiêu</tspan></text>
+      <polygon points="786,365 814,380 786,395" fill="#f97316"/>
+    
+      <rect x="820" y="320" width="280" height="180" rx="12" fill="#ffffff" stroke="#f97316" stroke-width="3"/>
+      <circle cx="848" cy="348" r="18" fill="#f97316"/>
+      <text x="848" y="354" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff" font-family="Arial, sans-serif">3</text>
+      <text font-family="Arial, sans-serif" font-weight="600"><tspan x="840" y="398" font-size="18" fill="#1a1a1a">Luyện tập chủ động</tspan></text>
+      <polygon points="1106,365 1134,380 1106,395" fill="#f97316"/>
+    
+      <rect x="1140" y="320" width="280" height="180" rx="12" fill="#ffffff" stroke="#f97316" stroke-width="3"/>
+      <circle cx="1168" cy="348" r="18" fill="#f97316"/>
+      <text x="1168" y="354" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff" font-family="Arial, sans-serif">4</text>
+      <text font-family="Arial, sans-serif" font-weight="600"><tspan x="1160" y="398" font-size="18" fill="#1a1a1a">Phản tư và tiến bộ</tspan></text>
+      
+    
+  
+</svg>
