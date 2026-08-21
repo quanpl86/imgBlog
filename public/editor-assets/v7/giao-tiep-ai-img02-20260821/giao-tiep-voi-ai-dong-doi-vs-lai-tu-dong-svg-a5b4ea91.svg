@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="100%" height="100%" fill="#fffaf5"/>
+  
+    <text font-family="Arial, sans-serif" font-weight="700"><tspan x="80" y="70" font-size="32" fill="#111111">Người đọc hiểu rằng AI có thể là công cụ, cộng</tspan><tspan x="80" y="108" font-size="32" fill="#111111">tác viên hoặc người phản biện, nhưng không nên</tspan><tspan x="80" y="146" font-size="32" fill="#111111">trở thành chế độ lái tự động thay con người</tspan><tspan x="80" y="184" font-size="32" fill="#111111">quyết định.</tspan></text>
+    <rect x="70" y="150" width="700" height="680" rx="16" fill="#ffffff" stroke="#f97316" stroke-width="3"/>
+    <rect x="830" y="150" width="700" height="680" rx="16" fill="#ffffff" stroke="#f97316" stroke-width="3"/>
+    <text font-family="Arial, sans-serif"><tspan x="100" y="240" font-size="22" fill="#1a1a1a">• Công cụ</tspan></text><text font-family="Arial, sans-serif"><tspan x="100" y="330" font-size="22" fill="#1a1a1a">• Cộng tác viên</tspan></text><text font-family="Arial, sans-serif"><tspan x="100" y="420" font-size="22" fill="#1a1a1a">• Người phản biện</tspan></text><text font-family="Arial, sans-serif"><tspan x="100" y="510" font-size="22" fill="#1a1a1a">• Lái tự động</tspan></text>
+    <text font-family="Arial, sans-serif"><tspan x="860" y="240" font-size="22" fill="#1a1a1a">• Quyền chủ động của con người</tspan></text><text font-family="Arial, sans-serif"><tspan x="860" y="330" font-size="22" fill="#1a1a1a">• Cao</tspan></text><text font-family="Arial, sans-serif"><tspan x="860" y="420" font-size="22" fill="#1a1a1a">• Thấp</tspan></text>
+  
+</svg>
