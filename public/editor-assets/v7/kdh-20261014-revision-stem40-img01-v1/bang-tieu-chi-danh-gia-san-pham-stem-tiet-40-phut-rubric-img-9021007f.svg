@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="100%" height="100%" fill="#fffaf5"/>
+  
+    <text font-family="Arial, sans-serif" font-weight="700"><tspan x="48" y="64" font-size="32" fill="#111111">Người đọc nhận diện được 3 tiêu chí và 4 mức</tspan><tspan x="48" y="102" font-size="32" fill="#111111">đánh giá chỉ trong một hình.</tspan></text>
+    
+      <rect x="360" y="92" width="226" height="78" rx="8" fill="#f97316"/>
+      <text font-family="Arial, sans-serif" font-weight="700"><tspan x="372" y="124" font-size="16" fill="#ffffff">Mức 3 · Đạt</tspan></text>
+    
+      <rect x="596" y="92" width="226" height="78" rx="8" fill="#f97316"/>
+      <text font-family="Arial, sans-serif" font-weight="700"><tspan x="608" y="124" font-size="16" fill="#ffffff">Mức 4 · Vững</tspan><tspan x="608" y="146" font-size="16" fill="#ffffff">chắc</tspan></text>
+    
+      <rect x="832" y="92" width="226" height="78" rx="8" fill="#f97316"/>
+      <text font-family="Arial, sans-serif" font-weight="700"><tspan x="844" y="124" font-size="16" fill="#ffffff">Sản phẩm và kiểm</tspan><tspan x="844" y="146" font-size="16" fill="#ffffff">thử</tspan></text>
+    
+      <rect x="1068" y="92" width="226" height="78" rx="8" fill="#f97316"/>
+      <text font-family="Arial, sans-serif" font-weight="700"><tspan x="1080" y="124" font-size="16" fill="#ffffff">Giải thích bằng</tspan><tspan x="1080" y="146" font-size="16" fill="#ffffff">bằng chứng</tspan></text>
+    
+      <rect x="1304" y="92" width="226" height="78" rx="8" fill="#f97316"/>
+      <text font-family="Arial, sans-serif" font-weight="700"><tspan x="1316" y="124" font-size="16" fill="#ffffff">Nhận ra điểm cần</tspan><tspan x="1316" y="146" font-size="16" fill="#ffffff">cải tiến</tspan></text>
+    
+    
+      <rect x="48" y="180" width="300" height="148" rx="8" fill="#fff1e6" stroke="#f97316" stroke-width="2"/>
+      <text font-family="Arial, sans-serif" font-weight="600"><tspan x="64" y="216" font-size="18" fill="#1a1a1a">BẢNG TIÊU CHÍ ĐÁNH GIÁ</tspan><tspan x="64" y="240" font-size="18" fill="#1a1a1a">SẢN PHẨM STEM</tspan></text>
+      <rect x="360" y="180" width="226" height="148" rx="8" fill="#ffffff" stroke="#f3d0b8" stroke-width="2"/><rect x="596" y="180" width="226" height="148" rx="8" fill="#ffffff" stroke="#f3d0b8" stroke-width="2"/><rect x="832" y="180" width="226" height="148" rx="8" fill="#ffffff" stroke="#f3d0b8" stroke-width="2"/><rect x="1068" y="180" width="226" height="148" rx="8" fill="#ffffff" stroke="#f3d0b8" stroke-width="2"/><rect x="1304" y="180" width="226" height="148" rx="8" fill="#ffffff" stroke="#f3d0b8" stroke-width="2"/>
+    
+      <rect x="48" y="340" width="300" height="148" rx="8" fill="#fff1e6" stroke="#f97316" stroke-width="2"/>
+      <text font-family="Arial, sans-serif" font-weight="600"><tspan x="64" y="376" font-size="18" fill="#1a1a1a">Tiêu chí</tspan></text>
+      <rect x="360" y="340" width="226" height="148" rx="8" fill="#ffffff" stroke="#f3d0b8" stroke-width="2"/><rect x="596" y="340" width="226" height="148" rx="8" fill="#ffffff" stroke="#f3d0b8" stroke-width="2"/><rect x="832" y="340" width="226" height="148" rx="8" fill="#ffffff" stroke="#f3d0b8" stroke-width="2"/><rect x="1068" y="340" width="226" height="148" rx="8" fill="#ffffff" stroke="#f3d0b8" stroke-width="2"/><rect x="1304" y="340" width="226" height="148" rx="8" fill="#ffffff" stroke="#f3d0b8" stroke-width="2"/>
+    
+      <rect x="48" y="500" width="300" height="148" rx="8" fill="#fff1e6" stroke="#f97316" stroke-width="2"/>
+      <text font-family="Arial, sans-serif" font-weight="600"><tspan x="64" y="536" font-size="18" fill="#1a1a1a">Mức 1 · Cần hỗ trợ</tspan></text>
+      <rect x="360" y="500" width="226" height="148" rx="8" fill="#ffffff" stroke="#f3d0b8" stroke-width="2"/><rect x="596" y="500" width="226" height="148" rx="8" fill="#ffffff" stroke="#f3d0b8" stroke-width="2"/><rect x="832" y="500" width="226" height="148" rx="8" fill="#ffffff" stroke="#f3d0b8" stroke-width="2"/><rect x="1068" y="500" width="226" height="148" rx="8" fill="#ffffff" stroke="#f3d0b8" stroke-width="2"/><rect x="1304" y="500" width="226" height="148" rx="8" fill="#ffffff" stroke="#f3d0b8" stroke-width="2"/>
+    
+      <rect x="48" y="660" width="300" height="148" rx="8" fill="#fff1e6" stroke="#f97316" stroke-width="2"/>
+      <text font-family="Arial, sans-serif" font-weight="600"><tspan x="64" y="696" font-size="18" fill="#1a1a1a">Mức 2 · Đang hình</tspan><tspan x="64" y="720" font-size="18" fill="#1a1a1a">thành</tspan></text>
+      <rect x="360" y="660" width="226" height="148" rx="8" fill="#ffffff" stroke="#f3d0b8" stroke-width="2"/><rect x="596" y="660" width="226" height="148" rx="8" fill="#ffffff" stroke="#f3d0b8" stroke-width="2"/><rect x="832" y="660" width="226" height="148" rx="8" fill="#ffffff" stroke="#f3d0b8" stroke-width="2"/><rect x="1068" y="660" width="226" height="148" rx="8" fill="#ffffff" stroke="#f3d0b8" stroke-width="2"/><rect x="1304" y="660" width="226" height="148" rx="8" fill="#ffffff" stroke="#f3d0b8" stroke-width="2"/>
+    
+  
+</svg>
